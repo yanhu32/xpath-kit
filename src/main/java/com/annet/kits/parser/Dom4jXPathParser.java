@@ -9,7 +9,7 @@ import java.io.ByteArrayInputStream;
 import java.nio.charset.StandardCharsets;
 
 /**
- * dom4j xml XPath解析
+ * dom4j XPath解析
  *
  * @author yh
  * @since 2021/4/22

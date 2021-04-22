@@ -4,7 +4,7 @@ package com.annet.kits.filter;
 import com.annet.kits.utils.Strings;
 
 /**
- * 去除空格
+ * 去除 XPath 表达式空格
  *
  * @author yh
  * @since 2021/4/22

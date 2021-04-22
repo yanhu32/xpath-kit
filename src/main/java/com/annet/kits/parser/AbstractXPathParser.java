@@ -4,6 +4,8 @@ package com.annet.kits.parser;
 import com.annet.kits.utils.Strings;
 
 /**
+ * XPath解析基类
+ *
  * @author yh
  * @since 2021/4/22
  */

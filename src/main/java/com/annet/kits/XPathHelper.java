@@ -41,7 +41,9 @@ public class XPathHelper {
      * XPath 表达式过滤器链
      */
     private List<XPathFilter> filterChain;
-
+    /**
+     * XPath 解析器
+     */
     private final XPathParser parser;
 
     public XPathHelper(XPathParser parser) {
@@ -193,7 +195,7 @@ public class XPathHelper {
     }
 
     /**
-     * 初始化字段的类型
+     * 字段类型
      */
     private enum JavaType {
         /**
